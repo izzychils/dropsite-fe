@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Public pages of www.dropsite.com. Account screens are excluded. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.dropsite.com/</loc></url>
+  <url><loc>https://www.dropsite.com/about</loc></url>
+  <url><loc>https://www.dropsite.com/contact</loc></url>
+  <url><loc>https://www.dropsite.com/privacy-policy</loc></url>
+  <url><loc>https://www.dropsite.com/terms-of-use</loc></url>
+  <url><loc>https://www.dropsite.com/terms-and-conditions</loc></url>
+</urlset>
