@@ -29,8 +29,7 @@ export const Header = () => {
 
           {/* Desktop CTA */}
           <div className="header-cta-desktop">
-            <Link to="/login" className="btn-secondary">Sign in</Link>
-            <Link to="/signup" className="btn-primary">Get Started</Link>
+            <Link to="/request-demo" className="btn-primary">Request a Demo</Link>
           </div>
 
           {/* Mobile Menu Dropdown */}
@@ -63,8 +62,7 @@ export const Header = () => {
                   </a>
                 </DropdownMenuItem>
                 <div className="dropdown-cta-buttons">
-                  <Link to="/login" className="btn-secondary-dropdown">Sign in</Link>
-                  <Link to="/signup" className="btn-primary-dropdown">Get Started</Link>
+                  <Link to="/request-demo" className="btn-primary-dropdown">Request a Demo</Link>
                 </div>
               </DropdownMenuContent>
             </DropdownMenu>
